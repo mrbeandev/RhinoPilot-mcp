@@ -1,3 +1,4 @@
+![ICON-1024x1024](https://github.com/user-attachments/assets/8c46e5e9-a625-4db4-98d9-c5de6eaa59e5)
 # RhinoPilot MCP - AI-Driven 3D Modeling for Rhino
 
 RhinoPilot MCP (Model Context Protocol) is a cutting-edge server extension for Rhino that revolutionizes how designers interact with 3D modeling. This professional-grade solution provides a sophisticated bridge between artificial intelligence systems and Rhino's powerful geometric modeling capabilities, enabling an unprecedented paradigm in creative design workflows.
